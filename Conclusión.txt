@@ -1,0 +1,25 @@
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+
+---
+
+Durante el desarrollo de este proyecto aprendí a aplicar de manera práctica varios conceptos de Java que hasta ahora conocía principalmente en teoría. Por ejemplo, reforcé el manejo de archivos utilizando herramientas como PrintWriter y Files, lo que me permitió crear, leer y procesar información de forma organizada. También aprendí a trabajar con colecciones como List y Map para almacenar y estructurar datos de manera eficiente.
+
+Además, el uso de Streams me ayudó a comprender una forma más moderna y ordenada de procesar listas de objetos, realizar filtros y generar resultados de manera más sencilla. Otro aspecto importante fue entender la importancia de validar la información antes de procesarla, así como documentar el código para que sea más claro, mantenible y fácil de entender tanto para mí como para cualquier otra persona que lo revise.
+
+2. POSIBLES APLICACIONES EN LA VIDA PROFESIONAL
+
+---
+
+Los conocimientos adquiridos en este proyecto tienen una aplicación directa en el ámbito laboral. En muchas empresas es fundamental trabajar con archivos planos o CSV para importar, exportar y analizar información. Saber leer, validar, transformar y organizar estos datos es una habilidad muy valiosa en áreas como logística, calidad, contabilidad, inventarios y comercio electrónico.
+
+Además, la generación automática de reportes permite presentar información de forma clara y útil para la toma de decisiones. Por ejemplo, clasificar vendedores según su rendimiento o identificar datos inconsistentes son tareas muy comunes en entornos empresariales. Este proyecto me permitió fortalecer habilidades que serán de gran utilidad en mi desarrollo profesional, especialmente en roles relacionados con análisis de datos, automatización de procesos y gestión de información.
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO DEL PROYECTO
+
+---
+
+Una de las principales dificultades fue comprender el uso de los genéricos en Java, especialmente en métodos como cargarDatos(), ya que al principio su sintaxis y aplicación resultaban complejas. También fue un reto entender y aplicar correctamente las interfaces funcionales, como Function, y cómo estas se integran en la programación moderna con Streams.
+
+Otro desafío importante fue el manejo de excepciones. Aprender cuándo era más adecuado utilizar try-catch y cuándo era mejor propagar los errores mediante throws requirió analizar cuidadosamente la lógica del programa. Asimismo, asegurar que los archivos generados por la clase GenerateInfoFiles cumplieran con el formato requerido implicó varias pruebas, ajustes y validaciones.
+
+A pesar de estas dificultades, cada reto representó una oportunidad de aprendizaje. Al final, el proyecto me permitió fortalecer mis conocimientos en programación, mejorar mi capacidad de resolución de problemas y desarrollar una visión más práctica sobre cómo aplicar Java en situaciones reales.
